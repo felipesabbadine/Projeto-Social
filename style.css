@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(pacote-d013/imagens/fundo-madeira.jpg);
+    background-size: 100vh 100vw;
+    background-position: bottom bottom;
+}
+
+img#frame {
+    position: fixed;
+    right: 40%;
+}
